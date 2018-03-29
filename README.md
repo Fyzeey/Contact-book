@@ -11,3 +11,4 @@
 ```
 yarn run dev-server
 ```
+- Visit app on localhost:8080
