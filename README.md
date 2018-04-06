@@ -2,7 +2,7 @@
 
 ### A single page application that let you list and manage the authenticated google user's contacts. 
 - Front-end: React.js
-- REST API: Google People API
+- Google People API
 
 
 ### To run the app locally 
