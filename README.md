@@ -1,7 +1,7 @@
-# Google Contact SPA
+## Google Contact SPA
 
 ### A single page application that let you list and manage the authenticated google user's contacts. 
-- Front-end: React.js
+- Front-end: React and Redux
 - Google People API
 
 
