@@ -1,6 +1,6 @@
 ## Google Contact SPA
 
-### A single page application that list and manage the authenticated google user's contacts. 
+### A single page application that lists and manages the authenticated google user's contacts. 
 
 - User authentication is provided via OAuth.
 
