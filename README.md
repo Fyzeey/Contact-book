@@ -13,7 +13,11 @@
 
 ### To run the app locally 
 
-- Install all dependency in package.json file in the project directory.
+- Install all dependency in package.json file in the project directory by typing.
+
+```
+npm install
+```
 
 - Run the following comment
 
